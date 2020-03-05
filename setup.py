@@ -10,6 +10,7 @@ setup(
     license = "MIT",
     keywords = "crontab container",
     url = "https://github.com/nlm/micron",
+    python_requires = '>=3.6',
     classifiers = [
         'Development Status :: 4 - Beta',
         'Environment :: Console',
