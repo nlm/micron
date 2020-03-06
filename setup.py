@@ -5,7 +5,7 @@ with open("README.md", "r") as fd:
 
 setup(
     name = "micron",
-    version = "1.0",
+    version = "1.0.post1",
     packages = find_packages(),
     author = "Nicolas Limage",
     author_email = 'github@xephon.org',
