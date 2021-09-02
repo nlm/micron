@@ -30,7 +30,7 @@ setup(
     ],
     entry_points = {
         'console_scripts': [
-            'micron = micron:main',
+            'micron = micron.__main__:main',
         ],
     },
 )
